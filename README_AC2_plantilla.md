@@ -17,7 +17,8 @@
 ## Problema 2 · Calificaciones (AC2_P2_Calificaciones.c)
 
 | Datos de entrada | Proceso | Datos de salida | Limitaciones |
-|---|---|---|---|
+|Nombre completo del estudiante y tres calificaciones|Validar que cada calificación esté entre 0 y 100, que guarde las notas en un arreglo, calcular el promedio y buscar la nota más alta y determinar la condición académica según el promedio. 
+|Nombre del estudiante, tres calificaciones, promedio con dos decimales, nota más alta y condición si es APROBADO, EN RIESGO o NO APROBADO.|Cada calificación debe estar entre 0 y 100 se utilizan exactamente tres calificaciones, se aprueba con promedio de 70 o más y se está en riesgo con promedio de 60 a menos de 70y no se aprueba con promedio menor que 60.|
 |  |  |  |  |
 
 **Ejecución con los datos del ejemplo:**
