@@ -12,7 +12,7 @@
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](problema_1.png)
+![Ejecución](recursos/Problema_2.png)
 
 ## Problema 2 · Calificaciones (AC2_P2_Calificaciones.c)
 
